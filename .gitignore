@@ -1,0 +1,8 @@
+**/node_modules/
+frontend/.next/
+backend/dist/
+
+# Environment files — never commit secrets
+**/.env
+**/.env.*
+!**/.env.example
